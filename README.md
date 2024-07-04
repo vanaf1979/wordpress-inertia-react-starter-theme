@@ -1,6 +1,7 @@
 ## WordPress/Vue Starter Theme Using Inertia.js
 
 A bare-bones example theme using Inertia with React, and the WordPress Inertia adapter.
+([Forked from the original Vue based theme by Boxybird](https://github.com/boxybird/wordpress-inertia-starter-theme))
 
 ### Installation
 Clone this repository into the WordPress themes directory.
