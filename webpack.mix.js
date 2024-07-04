@@ -2,7 +2,7 @@
 
 let mix = require('laravel-mix')
 
-mix.js('src/js/app.js', 'dist')
-  .vue({ version: 3 })
+mix.js('src/js/app.jsx', 'dist')
+  .react()
   .setPublicPath('dist')
   .version()

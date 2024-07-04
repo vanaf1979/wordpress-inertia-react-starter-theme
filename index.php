@@ -21,7 +21,7 @@ if (is_page()) {
 }
 
 if (is_404()) {
-    return Inertia::render('404', [
+    return Inertia::render('FourOFour', [
         'content' => '404 - Not Found',
     ]);
 }
